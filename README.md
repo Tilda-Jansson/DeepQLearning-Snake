@@ -18,4 +18,4 @@ Run the agent.py script to train the AI model and play the Snake game.
 
 The script will train the AI agent using Deep Q-Learning and visualize its performance using a plot of scores and mean scores over time. If the agent achieves a new high score, the model will be saved for future use.
 
-![Demo GIF](https://imgur.com/Hhw2HgX)
+![Demo GIF](https://i.imgur.com/Hhw2HgX.gif)
